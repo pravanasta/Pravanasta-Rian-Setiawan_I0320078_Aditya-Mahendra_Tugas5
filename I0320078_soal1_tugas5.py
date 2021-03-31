@@ -13,8 +13,6 @@ if gender.upper() == 'L' :
 else :
     print('"Selamat datang, Nyonya', nama,'!"')
 
-
-
 print("")
 print("+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
 print("====================      SELESAI       ===================")
